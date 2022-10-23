@@ -1,0 +1,8 @@
+	La libreria que da funcionamiento al proyecto de Unity META OF MADNESS por la cantidad de espacio que tiene, 
+se subió a drive con la finalidad de mantenerlo disponible para todo el publico.
+
+	Link de descarga: https://drive.google.com/drive/folders/1uiGKyhJr-4VChTZC3RhGAHqhCB85S1qA?usp=sharing
+
+	Instrucciones:
+	
+	1.- Solo descargue la libraria y copiela dentro de la carpeta META OF MADNESS.
